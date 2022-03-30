@@ -3,7 +3,7 @@
 </div>
 
 # I'm Gabriel Bueno <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## My goal is to become a Full-Stack Web Developer.
+## Full-Stack Web Developer.
 
 ---
 
