@@ -7,10 +7,6 @@
 
 ---
 
-- 🌱 Currently studying at <a href="https://www.betrybe.com/">Trybe<a>
-
----
-
 <div align="center">
 <a href="https://github.com/gbuenodev/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gbuenodev&show_icons=true&count_private=true&theme=gotham" />
