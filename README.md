@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/wnXfIzaydwuQAL2L3c/giphy.gif" width="480" heigth="300" />
 </div>
 
-# I'm Gabriel Bueno <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# I'm Gabriel Bueno <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 ## Full-Stack Web Developer.
 
 ---
