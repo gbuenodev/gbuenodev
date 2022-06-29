@@ -138,5 +138,5 @@
 </p>
   
 <h2 align="center"> Thanks for visiting <br> 
-  <img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="150px">
+  <img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="150">
 </h2> 
