@@ -1,50 +1,52 @@
 # Gabriel Bueno
-### Backend Engineer | Go | AWS | Kubernetes
+### Backend Engineer || Go || AWS | GCP || Kubernetes  
 
 ---
 
 ## 👨‍💻 About Me
-Backend engineer with experience building cloud-native applications and infrastructure.  
-Currently focused on **Golang**, **AWS**, and **Kubernetes**, applying software engineering and DevOps practices to deliver scalable and reliable systems.
+Backend engineer focused on **Golang**, **AWS**, **GCP**, and **Kubernetes**.  
+Building scalable, cloud-native systems combining software engineering and DevOps practices.  
 
 ---
 
-## ⚡ Core Skills
+## ⚡ Skills
 
-### 🔹 Programming & Backend
-- **Go (Golang)** – APIs, services, concurrency, performance optimization
-- **Node.js** (legacy projects)
+### Programming & Backend
+- Go (Golang) – APIs, concurrency, performance  
+- Node.js (legacy projects)  
 
-### ☁️ Cloud & Infrastructure
-- **AWS** – IAM, EKS, RDS, S3, Lambda, VPC  
-- **Kubernetes (K8s)** – deployments, Helm charts, monitoring/alerting  
-- **Docker** – containerization  
-- **CI/CD** – GitLab CI, GitHub Actions  
+### Cloud & Infrastructure
+- AWS – EKS, RDS, S3, Lambda, IAM, CloudWatch, ECR
+- GCP – GKE, Cloud Run, Cloud SQL, Pub/Sub, BigQuery
+- Kubernetes – Deployments, Helm, Monitoring  
+- Docker – Containerization  
 
-### 🗄️ Databases
-- **PostgreSQL**
-- **MongoDB**
-- **MySQL**
+### Databases
+- PostgreSQL  
+- MongoDB  
+- MySQL  
 
----
-
-## 📚 Currently Learning
-- Advanced Go internals (concurrency, profiling, design patterns)  
-- Kubernetes operators & GitOps workflows  
-- Cloud-native best practices on AWS  
+### CI/CD
+- GitLab CI  
+- GitHub Actions  
 
 ---
 
 ## 🚀 Projects
-- **Telemetry Service** – Golang service for secure telemetry data transfer, featuring request throttling, compression, and fault tolerance.  
-- **Helm Deployments** – Automated CI/CD pipelines deploying Helm charts via GitLab on SUSE Linux runners.  
-- **Travel Planner MVP** – AI-driven trip planner (Go backend + Angular frontend).  
+- **[go_project](https://github.com/gbuenodev/go_project)** – Go-based applications and exercises showcasing backend fundamentals  
+- **[go_aws_project](https://github.com/gbuenodev/go_aws_project)** – Go + AWS project demonstrating cloud-native integration and infrastructure automation  
 
 ---
 
 ## 🤝 Connect
-- [LinkedIn](https://linkedin.com/in/gbuenodev)  
-- [Stack Overflow](https://stackoverflow.com/users/16921132)  
-- [Instagram](https://instagram.com/gabriel_sbueno)  
-
----
+<p align="left">
+<a href="https://linkedin.com/in/gbuenodev" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/16921132" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+</a>
+<a href="https://instagram.com/gabriel_sbueno" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+</p>
