@@ -12,8 +12,8 @@ Building scalable, cloud-native systems combining software engineering and DevOp
 ## ⚡ Skills
 
 ### Programming & Backend
-- Go (Golang) – APIs, concurrency, performance  
-- Node.js (legacy projects)  
+- Go (Golang)
+- Node.js 
 
 ### Cloud & Infrastructure
 - AWS – EKS, RDS, S3, Lambda, IAM, CloudWatch, ECR
