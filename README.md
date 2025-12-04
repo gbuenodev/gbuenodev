@@ -35,7 +35,8 @@ Building scalable, cloud-native systems combining software engineering and DevOp
 ## 🚀 Projects
 - **[go_project](https://github.com/gbuenodev/go_project)** – Go-based applications and exercises showcasing backend fundamentals  
 - **[go_aws_project](https://github.com/gbuenodev/go_aws_project)** – Go + AWS project demonstrating cloud-native integration and infrastructure automation  
-
+- **[fullcycle_go_expert](https://github.com/gbuenodev/fullcycle_go_expert)** – Repository with all projects developed during the postgrad program by FullCycle - Go Expert
+  
 ---
 
 ## 🤝 Connect
